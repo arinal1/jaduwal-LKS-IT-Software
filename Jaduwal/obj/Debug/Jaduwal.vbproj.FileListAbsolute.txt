@@ -1,0 +1,15 @@
+c:\users\arinal\documents\visual studio 2015\Projects\Jaduwal\Jaduwal\bin\Debug\Jaduwal.exe.config
+c:\users\arinal\documents\visual studio 2015\Projects\Jaduwal\Jaduwal\bin\Debug\Jaduwal.exe
+c:\users\arinal\documents\visual studio 2015\Projects\Jaduwal\Jaduwal\bin\Debug\Jaduwal.pdb
+c:\users\arinal\documents\visual studio 2015\Projects\Jaduwal\Jaduwal\bin\Debug\Jaduwal.xml
+c:\users\arinal\documents\visual studio 2015\Projects\Jaduwal\Jaduwal\obj\Debug\Jaduwal.vbprojResolveAssemblyReference.cache
+c:\users\arinal\documents\visual studio 2015\Projects\Jaduwal\Jaduwal\obj\Debug\Jaduwal.Login.resources
+c:\users\arinal\documents\visual studio 2015\Projects\Jaduwal\Jaduwal\obj\Debug\Jaduwal.Resources.resources
+c:\users\arinal\documents\visual studio 2015\Projects\Jaduwal\Jaduwal\obj\Debug\Jaduwal.vbproj.GenerateResource.Cache
+c:\users\arinal\documents\visual studio 2015\Projects\Jaduwal\Jaduwal\obj\Debug\Jaduwal.exe
+c:\users\arinal\documents\visual studio 2015\Projects\Jaduwal\Jaduwal\obj\Debug\Jaduwal.xml
+c:\users\arinal\documents\visual studio 2015\Projects\Jaduwal\Jaduwal\obj\Debug\Jaduwal.pdb
+C:\Users\Arinal\documents\visual studio 2015\Projects\Jaduwal\Jaduwal\obj\Debug\Jaduwal.messageInfo.resources
+C:\Users\Arinal\documents\visual studio 2015\Projects\Jaduwal\Jaduwal\obj\Debug\Jaduwal.mainMenu.resources
+C:\Users\Arinal\documents\visual studio 2015\Projects\Jaduwal\Jaduwal\obj\Debug\Jaduwal.subjectInfo.resources
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\Jaduwal\Jaduwal\obj\Debug\Jaduwal.formSchedule.resources
